@@ -2,6 +2,9 @@
 简易网易云音乐下载工具  
 可绕过付费下载歌曲（不支持需要vip才能听的曲子）  
 
+## 下载
+https://github.com/Ltfjx/NCM_Downloader/releases/  
+
 ## 使用方式  
 首先获取网易云歌曲ID  
 使用客户端分享功能或网页端，例如  

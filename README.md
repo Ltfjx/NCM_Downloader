@@ -7,7 +7,7 @@ https://github.com/Ltfjx/NCM_Downloader/releases/
 
 ## 使用方式  
 首先获取网易云歌曲ID  
-使用客户端分享功能或网页端，例如  
+使用客户端分享功能或网页端获取链接，例如  
 https://<span></span>music.163.com/#/song?id=**1308778268**  
 那么**1308778268**就是这首歌的ID  
 然后打开exe，输入网易云歌曲ID，回车  
